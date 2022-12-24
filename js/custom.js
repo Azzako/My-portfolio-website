@@ -12,7 +12,7 @@
         $(".navbar-fixed-top").removeClass("top-nav-collapse");
       }
     });
-
+    // .
     function initParallax() {
       $('#home').parallax("100%", 0.1);
       $('#about').parallax("100%", 0.3);
